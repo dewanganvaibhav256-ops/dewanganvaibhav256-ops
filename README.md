@@ -4,37 +4,6 @@
 
 # Hello there, I'm Vaibhav 👋
 
-<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="120" fill="#0d1117" rx="10"/>
-
-  <text x="300" y="72" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="#58a6ff" text-anchor="middle" letter-spacing="8">VAIBHAV</text>
-
-  <circle cx="100" cy="60" r="5" fill="#e6edf3">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.18;0.19;1" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="60" r="5" fill="#e6edf3">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.33;0.34;1" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="300" cy="60" r="5" fill="#e6edf3">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.50;1" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="400" cy="60" r="5" fill="#e6edf3">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.64;0.65;1" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="500" cy="60" r="5" fill="#e6edf3">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.79;0.80;1" dur="5s" repeatCount="indefinite"/>
-  </circle>
-
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="-50 0; 600 0" dur="5s" repeatCount="indefinite"/>
-    
-    <circle cx="25" cy="60" r="25" fill="#f1e05a"/>
-    
-    <polygon fill="#0d1117">
-      <animate attributeName="points" values="25,60 60,60 60,60; 25,60 60,35 60,85; 25,60 60,60 60,60" dur="0.4s" repeatCount="indefinite"/>
-    </polygon>
-  </g>
-</svg>
 
 ### ᗧ · · · V A I B H A V · · · · · · ᗣ · · 🍒
 
