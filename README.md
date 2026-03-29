@@ -1,12 +1,9 @@
-#<p align="left">Hey  👋 What's up!!</p>
+# Hey  👋 What's up!!</p>
 
 ###
 
 <p align="left">About Me</p>
 
-###
-
-<p align="left">
 ### 🎓 Education & Background
 | Field | Details |
 | :--- | :--- |
