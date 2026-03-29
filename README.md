@@ -1,12 +1,10 @@
-<p align="left">Hey  👋 What's up!!</p>
+# <p align="left">Hey  👋 What's up!!</p>
 
 ###
 
 <p align="left">About Me</p>
 
-###
 
-<p align="left">
 ### 🎓 Education & Background<br>| Field | Details |<br>| :--- | :--- |<br>| **Name** | Vaibhav Dewangan |<br>| **Branch** | Integrated M.Tech in Artificial Intelligence |<br>| **Batch** | 2025 |<br><br>
 ### 🎯 Learning Goals<br>I am currently focusing on mastering:<br>* **Deep Learning** (Neural Networks, CNNs, Transformers)<br>* **Machine Learning** (Predictive Modeling, Scikit-learn)<br>* **Computer Vision**</p>
 
@@ -20,7 +18,7 @@
 
 ###
 
-<p align="left">I code with</p>
+# 💻I code with</p>
 
 ###
 
