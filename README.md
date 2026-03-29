@@ -1,4 +1,13 @@
 # <p align="left">Hey  👋 What's up!!</p>
+<div align="center">
+
+# Hello there, I'm Vaibhav 👋
+
+### ᗧ · · · V A I B H A V · · · · · · ᗣ · · 🍒
+
+**Developer | Tech Enthusiast | Lifelong Learner**
+
+</div>
 
 ###
 
