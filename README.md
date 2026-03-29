@@ -7,8 +7,6 @@
 
 ### ᗧ · · · V A I B H A V · · · · · · ᗣ · · 🍒
 
-<img src="./pacman.svg">
-
 **AI Learner | Tech Enthusiast | Lifelong Learner**
 
 </div>
