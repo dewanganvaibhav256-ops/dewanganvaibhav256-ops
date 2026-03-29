@@ -7,10 +7,18 @@
 ###
 
 <p align="left">
-### 🎓 Education & Background<br>| Field | Details |<br>| :--- | :--- |<br>| **Name** | Vaibhav Dewangan |<br>| **Branch** | Integrated M.Tech in Artificial Intelligence |<br>| **Batch** | 2025 |<br><br>
-### 🎯 Learning Goals<br>I am currently focusing on mastering:<br>* **Deep Learning** (Neural Networks, CNNs, Transformers)<br>* **Machine Learning** (Predictive Modeling, Scikit-learn)<br>* **Computer Vision**</p>
+### 🎓 Education & Background
+| Field | Details |
+| :--- | :--- |
+| **Name** | Vaibhav Dewangan |
+| **Branch** | Integrated M.Tech in Artificial Intelligence |
+| **Batch** | 2025 |
 
-###
+### 🎯 Learning Goals
+I am currently focusing on mastering:
+* **Deep Learning** (Neural Networks, CNNs, Transformers)
+* **Machine Learning** (Predictive Modeling, Scikit-learn)
+* **Computer Vision**
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
