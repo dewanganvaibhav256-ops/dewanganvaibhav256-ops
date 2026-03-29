@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">About Me</p>
+## <p align="left">About Me</p>
 
 
 ### 🎓 Education & Background<br>| Field | Details |<br>| :--- | :--- |<br>| **Name** | Vaibhav Dewangan |<br>| **Branch** | Integrated M.Tech in Artificial Intelligence |<br>| **Batch** | 2025 |<br><br>
