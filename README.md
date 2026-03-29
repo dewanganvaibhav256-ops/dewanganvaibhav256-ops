@@ -1,4 +1,5 @@
-# <p align="left">Hey  👋 What's up!!</p>
+<h1 align="left">Hey 👋 What's up!!</h1>
+
 <div align="center">
 
 # Hello there, I'm Vaibhav 👋
@@ -35,16 +36,16 @@
   </g>
 </svg>
 
-
 ### ᗧ · · · V A I B H A V · · · · · · ᗣ · · 🍒
 
 **AI Learner | Tech Enthusiast | Lifelong Learner**
 
 </div>
 
-###
+<br>
 
-## <p align="left">About Me</p>
+<h2 align="left">About Me</h2>
+
 ### 🎓 Education & Background
 | Field | Details |
 | :--- | :--- |
@@ -57,17 +58,16 @@ I am currently focusing on mastering:
 * **Deep Learning** (Neural Networks, CNNs, Transformers)
 * **Machine Learning** (Predictive Modeling, Scikit-learn)
 * **Computer Vision**
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <a href="YOUR_TWITCH_URL"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /></a>
 </div>
 
-###
+<br>
 
-### 💻I code with</p>
-
-###
+### 💻 I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -80,9 +80,3 @@ I am currently focusing on mastering:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-```text
-SCORE: 9999                                             LEVEL: 1
-----------------------------------------------------------------
-               ᗧ · · · V A I B H A V · · · ᗣ 
-----------------------------------------------------------------
