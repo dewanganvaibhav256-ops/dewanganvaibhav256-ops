@@ -7,9 +7,7 @@
 
 ### ᗧ · · · V A I B H A V · · · · · · ᗣ · · 🍒
 
-<div align="center">
-  <img src="pacman.svg" alt="Pac-Man Vaibhav Animation" width="100%" />
-</div>
+<img src="./pacman.svg">
 
 **AI Learner | Tech Enthusiast | Lifelong Learner**
 
