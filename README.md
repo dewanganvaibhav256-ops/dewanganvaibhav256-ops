@@ -5,7 +5,7 @@
 
 ### ᗧ · · · V A I B H A V · · · · · · ᗣ · · 🍒
 
-**Developer | Tech Enthusiast | Lifelong Learner**
+** AI Learner | Tech Enthusiast | Lifelong Learner**
 
 </div>
 
