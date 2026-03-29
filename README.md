@@ -48,4 +48,8 @@ I am currently focusing on mastering:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+```text
+SCORE: 9999                                             LEVEL: 1
+----------------------------------------------------------------
+               ᗧ · · · V A I B H A V · · · ᗣ 
+----------------------------------------------------------------
